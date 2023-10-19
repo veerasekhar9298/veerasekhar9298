@@ -1,5 +1,5 @@
 # 💫 About Me:
-iam a junior frontend/ui devloper 
+# Mern Stack Developer
 
 
 ## 🌐 Socials:
